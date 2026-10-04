@@ -1,0 +1,83 @@
+key,zh-CN,zh-TW,en-US
+Project Management,项目管理,项目管理,Project Management
+My Tasks,我的任务,我的任务,My Tasks
+Tasks assigned to me, across all projects,分配给我的任务，跨所有项目,分配给我的任务，跨所有项目,Tasks assigned to me, across all projects
+Project,项目,项目,Project
+Projects with their owner, schedule and status,项目及其负责人、计划与状态,项目及其负责人、计划与状态,Projects with their owner, schedule and status
+Key,编号,编号,Key
+Short code used as task prefix, e.g. ERP,任务前缀短码，例如 ERP,任务前缀短码，例如 ERP,Short code used as task prefix, e.g. ERP
+Name,名称,名称,Name
+Owner,负责人,负责人,Owner
+Status,状态,状态,Status
+Start,开始,开始,Start
+End,结束,结束,End
+Color,颜色,颜色,Color
+Description,描述,描述,Description
+Table,表格,表格,Table
+Cards,卡片,卡片,Cards
+Iteration,迭代,迭代,Iteration
+Sprints: a time box with a goal, grouped by project on the gantt,迭代：带目标的时间盒，甘特图按项目分组,迭代：带目标的时间盒，甘特图按项目分组,Sprints: a time box with a goal, grouped by project on the gantt
+Goal,目标,目标,Goal
+Gantt,甘特图,甘特图,Gantt
+Calendar,日历,日历,Calendar
+Task,任务,任务,Task
+Work items with sub-tasks, dependencies and milestones,含子任务、依赖与里程碑的工作项,含子任务、依赖与里程碑的工作项,Work items with sub-tasks, dependencies and milestones
+Board,看板,看板,Board
+Timeline,时间线,时间线,Timeline
+Parent,父任务,父任务,Parent
+Sub-tasks nest under their parent on the gantt,子任务在甘特图中挂在父任务下,子任务在甘特图中挂在父任务下,Sub-tasks nest under their parent on the gantt
+Title,标题,标题,Title
+Type,类型,类型,Type
+Priority,优先级,优先级,Priority
+Assignee,经办人,经办人,Assignee
+Reporter,报告人,报告人,Reporter
+Filled with the creator,自动填充为创建人,自动填充为创建人,Filled with the creator
+Due,截止,截止,Due
+Estimate (h),预估(小时),预估(小时),Estimate (h)
+Spent (h),已用(小时),已用(小时),Spent (h)
+Sum of worklogs,工时记录合计,工时记录合计,Sum of worklogs
+Progress,进度,进度,Progress
+Milestone,里程碑,里程碑,Milestone
+Drawn as a diamond on the gantt,在甘特图上绘制为菱形,在甘特图上绘制为菱形,Drawn as a diamond on the gantt
+Yes,是,是,Yes
+No,否,否,No
+Predecessors,前置任务,前置任务,Predecessors
+Tasks that must finish before this one starts,必须先完成的任务,必须先完成的任务,Tasks that must finish before this one starts
+Tags,标签,标签,Tags
+Task Reference,任务引用,任务引用,Task Reference
+Worklog,工时,工时,Worklog
+Hours booked on tasks,任务上登记的工时,任务上登记的工时,Hours booked on tasks
+User,用户,用户,User
+Filled with the current user,自动填充为当前用户,自动填充为当前用户,Filled with the current user
+Date,日期,日期,Date
+Hours,小时,小时,Hours
+Note,备注,备注,Note
+Risk,风险,风险,Risk
+Risk register per project,项目风险登记,项目风险登记,Risk register per project
+Probability,概率,概率,Probability
+Impact,影响,影响,Impact
+Mitigation,应对措施,应对措施,Mitigation
+Planning,规划中,规划中,Planning
+Active,进行中,进行中,Active
+On Hold,已暂停,已暂停,On Hold
+Done,已完成,已完成,Done
+Planned,已计划,已计划,Planned
+Closed,已关闭,已关闭,Closed
+Bug,缺陷,缺陷,Bug
+Story,需求,需求,Story
+Epic,史诗,史诗,Epic
+To Do,待办,待办,To Do
+In Progress,进行中,进行中,In Progress
+In Review,评审中,评审中,In Review
+Low,低,低,Low
+Medium,中,中,Medium
+High,高,高,High
+Urgent,紧急,紧急,Urgent
+Minor,轻微,轻微,Minor
+Moderate,中等,中等,Moderate
+Severe,严重,严重,Severe
+Open,未处理,未处理,Open
+Mitigating,处理中,处理中,Mitigating
+Task assigned,任务已分配,任务已分配,Task assigned
+Task due soon,任务即将到期,任务即将到期,Task due soon
+Task due-soon reminder,任务到期提醒,任务到期提醒,Task due-soon reminder
