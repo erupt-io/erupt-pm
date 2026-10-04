@@ -1,0 +1,12 @@
+target/
+data/
+.erupt/
+*.log
+logs/
+
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.DS_Store
