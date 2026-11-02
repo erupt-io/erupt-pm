@@ -23,7 +23,7 @@
     <description>Project management application built on the Erupt low-code framework</description>
     <properties>
         <java.version>17</java.version>
-        <erupt.version>2.3.0</erupt.version>
+        <erupt.version>2.4.0</erupt.version>
     </properties>
     <dependencies>
         <!-- Erupt exposes lombok as non-transitive, so declare it for our own entities -->
